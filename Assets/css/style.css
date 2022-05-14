@@ -1,0 +1,105 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+body * {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+.desc-section {
+    background-color: #000000;
+    color: #ffffff;
+    display: inline-block;
+    font-weight: 300;
+    white-space: normal;
+    padding: 50px;
+}
+
+.dc-t {
+    width: 40%;
+    margin-right: 15rem;
+    margin-left: 5rem;
+    white-space: normal;
+    padding: 1rem;
+    text-align: left;
+}
+
+.iguana {
+    width: 25%;
+    vertical-align: middle;
+    margin-left: 80%;
+    margin: -100%;
+    padding-bottom: 17%;
+    padding-left: 50%;
+}
+
+.hero-section {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.hero-section h1 {
+    padding: 0.5%;
+    font-size: 3rem;
+}
+
+.caracte {
+    background-color: #1E1A13;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+}
+
+.t-h2 {
+    font-size: 2rem;
+    font-weight: 500;
+    padding-top: 2%;
+}
+
+.caract {
+    display: inline-block;
+    margin: 5%;
+    font-weight: 300;
+}
+
+.caract span {
+    display: flex;
+    flex-flow: column wrap;
+}
+
+.caracte p {
+    margin-top: 25%;
+    font-size: 1.75rem;
+}
+
+.images {
+    background-color: #000000;
+}
+
+.images img {
+    width: 316px;
+    height: 202px;
+    padding: 0.5%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+.piepage {
+    background-color: #1E1A13;
+    color: #ffffff;
+    font-weight: 300;
+}
+
+.text-footer {
+    padding: 2%;
+}
+
+.container img {
+    background-image: url('..img/bg-header.jpg');
+    width: 100%;
+}
+
